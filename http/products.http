@@ -1,0 +1,7 @@
+### Get All
+GET http://localhost:3000/products
+
+
+### Get one
+GET http://localhost:3000/products/aac50067-b327-4c2f-95ff-8f51dd8b11b8
+
